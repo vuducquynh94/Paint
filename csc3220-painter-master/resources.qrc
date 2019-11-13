@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/eraser.jpg</file>
+        <file>images/middle.png</file>
+        <file>images/pen.png</file>
+        <file>images/thick.png</file>
+        <file>images/thin.png</file>
+    </qresource>
+</RCC>
